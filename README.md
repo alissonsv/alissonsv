@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 -----
-👨‍💻 About me
+## 👨‍💻 About me
 
 - 🔭 I’m currently studying JavaScript with focus in backend
 - 🌱 I’m currently learning Node.JS and the frameworks build on it
